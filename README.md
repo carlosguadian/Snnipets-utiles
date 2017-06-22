@@ -7,4 +7,6 @@
 - `02-find-associations.R` En base a la matriz de términos del documento encuentra asociaciones entre palabras. Para una palabra clave devuelve una serie de términos que contienen un mínimo de correlación definida por el usuario.
 - `03-cluster-dendogram.R` En base a la matriz de términos del documento genera un dendograma jerárquico con clústers.
 
-...
+###Dmi-Tcat
+
+- Cómo exportar e importar bases de datos entre diferentes instalaciones.
