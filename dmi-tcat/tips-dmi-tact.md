@@ -2,7 +2,7 @@
 
 Para exportar una base de datos en dmi-tcat
 
-- acceder a var/www/dmi-tcat/helpers
+- acceder a /var/www/dmi-tcat/helpers
 
 Ejecutar la siguiente línea
 
